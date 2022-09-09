@@ -1,6 +1,6 @@
 <h1 align="center"> Project PingPong </h1>
 
-<p align="center"> The Project is a game, construted while study programming logic "logica de programação" </p>
+<p align="center"> The Project is a game, construted while i was study programming logic "logica de programação" </p>
 <p align="center"> It was used p5.js to make this project </p>
 
 <br>
